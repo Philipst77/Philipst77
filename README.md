@@ -66,8 +66,10 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
 
 ---
 
-## 📈 GitHub Stats (optional if you want to add later)
-You can even add a GitHub stats card here!
+## 📈 GitHub Stats 
+![Philipst77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Philipst77&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Philipst77&layout=compact&theme=radical)
+
 
 ---
 
