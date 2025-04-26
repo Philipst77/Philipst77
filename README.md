@@ -33,7 +33,7 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
 ---
 
 ## 🏆 Major Experiences
-- **Headstarter Summer Sprint (SWE & MLE Track)**  
+- **Headstarter Software Engineering Fellow (SWE & MLE Track)**  
   - Completing multiple AI and SWE projects
   - Focus on building production-level intelligent systems
 - **Amazon x CodePath Design Challenge (Summer 2025)**  
