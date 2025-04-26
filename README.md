@@ -40,25 +40,25 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
   - Participated in Amazon-sponsored design competition for software solutions
 - **SpeedHacks 2.0 Hackathon (George Mason University)**  
   - Project: **AutoSeedBot** — Designed and built an autonomous eco-friendly seed-planting robot using solar navigation and 3D printed chassis, coded navigation and distribution algorithms from scratch.
+  - 
 
 ---
 
 ## 🛠️ Featured Projects
-- **Financial Market Anomaly Detection**  
-  _An ML-driven app for detecting unusual patterns in market data using Isolation Forest, LOF, and SVM._  
-  _Streamlit App + Scikit-Learn Models._
+- **Facial Recognition Project**  
+  _Built a real-time facial recognition system using OpenCV and Deep Learning. Implemented face detection and recognition pipelines with efficient matching algorithms._
 
-- **RAG Framework Implementation**  
-  _Built a Retrieval-Augmented Generation pipeline using LangChain, Pinecone, and OpenAI for smarter AI assistants._
+- **Linear Regression Project**  
+  _Designed and trained a linear regression model from scratch to predict trends based on real-world data. Focused on gradient descent optimization and loss minimization._
 
-- **Stock Price Predictor (Upcoming)**  
-  _Applying LSTM models for financial time series forecasting._
+- **Neural Network Project**  
+  _Built a custom neural network model without using high-level frameworks. Implemented forward pass, backpropagation, and trained on classification datasets._
 
 - **SQL Database Manager**  
-  _CLI tool built with Java and JDBC for library database management; complete CRUD functionality._
+  _CLI tool built with Java and JDBC for library database management; complete CRUD functionality, SQL queries, and database normalization up to 3NF._
 
 - **AutoSeedBot**  
-  _Autonomous robot for reforestation — sunlight detection, autonomous movement, seed distribution._
+  _Autonomous eco-friendly robot designed for reforestation. Implemented sunlight detection for navigation and automated seed distribution using custom-coded 3D-printed hardware._
 
 ---
 
