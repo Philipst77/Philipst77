@@ -58,7 +58,7 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
   _Designed and trained a linear regression model from scratch to predict trends based on real-world data. Focused on gradient descent optimization and loss minimization._
 
 - **Neural Network Project**  
-  _Built a custom neural network model without using high-level frameworks. Implemented forward pass, backpropagation, and trained on classification datasets._
+  _Built a custom neural network model without using high-level frameworks. Implemented forward pass, backpropagation, and trained on classification datasets, Including Cosine Similarity checking and Euclidean Distance._
 
 - **SQL Database Manager**  
   _CLI tool built with Java and JDBC for library database management; complete CRUD functionality, SQL queries, and database normalization up to 3NF._
