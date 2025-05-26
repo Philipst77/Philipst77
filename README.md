@@ -67,7 +67,7 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
   _Autonomous eco-friendly robot designed for reforestation. Implemented sunlight detection for navigation and automated seed distribution using custom-coded 3D-printed hardware._
 
 ---
-y
+
 
 ## 📈 GitHub Stats
 ![Philipst77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Philipst77&show_icons=true&theme=radical&v=2)
