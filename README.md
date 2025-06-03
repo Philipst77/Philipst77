@@ -81,5 +81,6 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/philip-stavrev-b9755028a/)
 - [GitHub](https://github.com/Philipst77)
+- [LeetCode](https://leetcode.com/u/phils7)
 
 ---
