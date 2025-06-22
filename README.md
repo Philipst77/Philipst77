@@ -64,7 +64,7 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
   _CLI tool built with Java and JDBC for library database management; complete CRUD functionality, SQL queries  and database normalization up to 3NF._
 
 - **AutoSeedBot**  
-  _Autonomous eco-friendly robot designed for reforestation. Implemented sunlight detection for navigation and automated seed distribution using custom-coded 3D-printed hardware._
+  _Autonomous ecofriendly robot designed for reforestation. Implemented sunlight detection for navigation and automated seed distribution using custom-coded 3D-printed hardware._
 
 ---
 
