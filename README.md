@@ -69,11 +69,11 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
 ---
 ## 📈 GitHub Stats
 
-<img src="https://metrics.lecoq.io/Philipst77?template=classic&config.timezone=America%2FNew_York" alt="GitHub Stats" />
+<!-- Stat Card with Letter Grade -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Philipst77&theme=2077" alt="GitHub Stats"/>
 
-<img src="https://metrics.lecoq.io/Philipst77?template=classic&languages=1&isocalendar=1&config.timezone=America%2FNew_York" alt="Languages and Commit Times" />
-
-
+<!-- Most Used Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Philipst77&theme=2077" alt="Most Used Languages"/>
 
 
 ---
