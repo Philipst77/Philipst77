@@ -68,12 +68,8 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
 
 ---
 ## 📈 GitHub Stats
-
-<!-- Stat card with letter grade (B-) and yearly breakdown -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Philipst77&theme=2077" alt="GitHub Stats with Grade" />
-
-<!-- Most Used Languages bar graph -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Philipst77&theme=2077" alt="Most Used Languages" />
+![Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Philipst77&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Philipst77&layout=compact&theme=radical)](https://github.com/Philipst77)
 
 ---
 
