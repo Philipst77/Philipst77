@@ -68,10 +68,13 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Philipst77&show_icons=true&theme=radical&cache_seconds=100)
+## 📊 GitHub Report Card
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Philipst77&layout=compact&theme=radical&v=2)
+![Philip's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Philipst77&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Philipst77&theme=tokyonight)
+
+![Commits Per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Philipst77&theme=tokyonight)
 
 
 
