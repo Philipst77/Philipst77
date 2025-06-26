@@ -68,13 +68,19 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
 
 ---
 
-## 📊 GitHub Report Card
+## 📈 GitHub Stats
 
-![Philip's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Philipst77&theme=tokyonight)
+<!-- Classic Metrics Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Philipst77&theme=tokyonight" alt="GitHub Stats" />
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Philipst77&theme=tokyonight)
+<!-- Grade Card -->
+<img src="https://metrics.lecoq.io/Philipst77?template=classic&config.timezone=America%2FNew_York" alt="Metrics with Grade" />
 
-![Commits Per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Philipst77&theme=tokyonight)
+<!-- Languages Donut -->
+<img src="https://metrics.lecoq.io/Philipst77?template=classic&languages=1&languages.limit=8&languages.colors=github&config.timezone=America%2FNew_York" alt="Top Languages Donut" />
+
+<!-- Commits by Hour -->
+<img src="https://metrics.lecoq.io/Philipst77?template=classic&isocalendar=1&config.timezone=America%2FNew_York" alt="Commit Times" />
 
 
 
