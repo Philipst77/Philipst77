@@ -67,20 +67,12 @@ I'm an aspiring Software Engineer passionate about **Machine Learning**, **Artif
   _Autonomous ecofriendly robot designed for reforestation. Implemented sunlight detection for navigation and automated seed distribution using custom-coded 3D-printed hardware._
 
 ---
-
 ## 📈 GitHub Stats
 
-<!-- Classic Metrics Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Philipst77&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://metrics.lecoq.io/Philipst77?template=classic&config.timezone=America%2FNew_York" alt="GitHub Stats" />
 
-<!-- Grade Card -->
-<img src="https://metrics.lecoq.io/Philipst77?template=classic&config.timezone=America%2FNew_York" alt="Metrics with Grade" />
+<img src="https://metrics.lecoq.io/Philipst77?template=classic&languages=1&isocalendar=1&config.timezone=America%2FNew_York" alt="Languages and Commit Times" />
 
-<!-- Languages Donut -->
-<img src="https://metrics.lecoq.io/Philipst77?template=classic&languages=1&languages.limit=8&languages.colors=github&config.timezone=America%2FNew_York" alt="Top Languages Donut" />
-
-<!-- Commits by Hour -->
-<img src="https://metrics.lecoq.io/Philipst77?template=classic&isocalendar=1&config.timezone=America%2FNew_York" alt="Commit Times" />
 
 
 
