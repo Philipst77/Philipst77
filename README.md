@@ -46,7 +46,7 @@ Im an aspiring Software Engineer passionate about **Machine Learning**, **Artifi
   🧠 Worked on the Hardware Security for Autonomous Systems project. Developed and tested robotic systems using C++, Python, ROS2; focused on real-time data handling, control, and cybersecurity for autonomous platforms.
 
 - **Autonomous Robotics Hardware Security Intern @ Spire Lab**  
-  🤖 Designed autonomous ground robots with Raspberry Pi, implemented SLAM mapping, and led penetration testing to expose vulnerabilities in robot comms and navigation systems.
+  🤖 Designed autonomous ground robots with Raspberry Pi implemented SLAM mapping, and led penetration testing to expose vulnerabilities in robot comms and navigation systems.
 
 ---
 
