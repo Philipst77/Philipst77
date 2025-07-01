@@ -16,7 +16,7 @@ Im an aspiring Software Engineer passionate about **Machine Learning**, **Artifi
 
 ## 🚀 Technical Skills
 - **Programming Languages:** Python, Java, C, SQL, JavaScript, Typscript
-- **AI/ML Frameworks:** TensorFlow , Scikit Learn, OpenCV, Hugging Face Transformers
+- **AI/ML Frameworks:** TensorFlow, Scikit Learn, OpenCV, Hugging Face Transformers
 - **Databases:** 
   - SQL (MySQL, PostgreSQL)
   - NoSQL (MongoDB, Firebase)
