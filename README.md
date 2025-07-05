@@ -37,7 +37,7 @@ Im an aspiring Software Engineer passionate about **Machine Learning**, **Artifi
 ## 🏆 Major Experiences
 - **Headstarter Software Engineering Fellow (SWE & MLE Track)**  
   - Completing multiple AI and SWE projects
-  - Focus on building production-level intelligent systems
+  - Focus on building production level intelligent systems
 - **Amazon x CodePath Design Challenge (Summer 2025)**  
   - Participated in Amazon-sponsored design competition for software solutions
 - **SpeedHacks 2.0 Hackathon (George Mason University)**  
