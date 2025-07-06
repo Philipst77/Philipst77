@@ -29,7 +29,7 @@ Im an aspiring Software Engineer passionate about **Machine Learning**, **Artifi
 ## 📚 Currently Learning
 - Deep Learning Architectures (CNNs, RNNs, Transformers)
 - System Design for scalable AI applications
-- Advanced SQL optimization and indexing strategies
+- Advanced SQL optimization - and indexing strategies
 - Reinforcement Learning basics
 
 ---
