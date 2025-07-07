@@ -41,7 +41,7 @@ Im an aspiring Software Engineer passionate about **Machine Learning**, **Artifi
 - **Amazon x CodePath Design Challenge (Summer 2025)**  
   - Participated in Amazon-sponsored design competition for software solutions
 - **SpeedHacks 2.0 Hackathon (George Mason University)**  
-  - Project: **AutoSeedBot** — Designed and built an autonomous eco-friendly seed-planting robot using solar navigation and 3D printed chassis, coded navigation and distribution algorithms from scratch.
+  - Project: **AutoSeedBot** — Designed and built an autonomous eco-friendly seed planting robot using solar navigation and 3D printed chassis, coded navigation and distribution algorithms from scratch.
 - **Undergrad Research Assistant @ George Mason University**  
   🧠 Worked on the Hardware Security for Autonomous Systems project. Developed and tested robotic systems using C++, Python, ROS2; focused on real-time data handling, control, and cybersecurity for autonomous platforms.
 
