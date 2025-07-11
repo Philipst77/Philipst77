@@ -61,7 +61,7 @@ Im an aspiring Software Engineer passionate about **Machine Learning**, **Artifi
   _Built a custom neural network model without using high-level frameworks. Implemented forward pass backpropagation, and trained on classification datasets, Including Cosine Similarity checking and Euclidean Distance._
 
 - **SQL Database Manager**  
-  _CLI tool built with Java and JDBC for library database management; complete CRUD functionality, SQL queries  and database normalization up to 3NF._
+  _CLI tool built with Java and JDBC for library database management complete CRUD functionality, SQL queries  and database normalization up to 3NF._
 
 - **AutoSeedBot**  
   _Autonomous ecofriendly robot designed for reforestation. Implemented sunlight detection for navigation and automated seed distribution using custom-coded 3D-printed hardware._
