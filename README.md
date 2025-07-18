@@ -52,7 +52,7 @@ Im an aspiring Software Engineer passionate about **Machine Learning**, **Artifi
 
 ## 🛠️ Featured Projects
 - **Facial Recognition Project**  
-  _Built a real time facial recognition system using OpenCV and Deep Learning. Implemented face detection and recognition pipelines with efficient matching algorithms._
+  _Built a real time facial recognition - system using OpenCV and Deep Learning. Implemented face detection and recognition pipelines with efficient matching algorithms._
 
 - **Linear Regression Project**  
   _Designed and trained a linear regression model from scratch to-predict trends based on real-world data. Focused on gradient descent optimization and loss minimization._
