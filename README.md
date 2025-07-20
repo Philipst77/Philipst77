@@ -8,7 +8,7 @@ Im an aspiring Software Engineer passionate about **Machine Learning**, **Artifi
 
 ## 🔭 Current Focus
 - Advanced Machine Learning and AI Systems
-- Algorithm Design and Competitive, Programming (LeetCode enthusiast 🚀)
+- Algorithm Design, and Competitive, Programming (LeetCode enthusiast 🚀)
 - Database Systems and Data Modeling
 - Building end-to-end AI powered applications
 
