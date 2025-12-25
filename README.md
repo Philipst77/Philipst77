@@ -68,18 +68,10 @@ Im an aspiring - Software Engineer passionate about **Machine Learning**, **Arti
 
 ---
 ## 📈 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Philipst77&show_icons=true&theme=radical&cache_seconds=86400"
-    alt="GitHub stats"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philipst77&layout=compact&theme=radical&cache_seconds=86400"
-    alt="Top languages"
-  />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Philipst77&show_icons=true&theme=radical&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Philipst77&layout=compact&theme=radical)
 
 
 ---
