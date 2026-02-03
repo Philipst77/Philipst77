@@ -42,7 +42,6 @@ Im an aspiring - Software Engineer passionate about **Machine Learning**, **Arti
 - Developed and integrated RESTful APIs with a React Native (Expo) frontend using TypeScript and Axios.
 - Worked demonstrates an Agile development environment, contributing to sprint planning, code reviews, and AWS-based deployments.
 
----
 ### Software / Machine Learning Engineering Intern  
 **Opfin AI** 
 *May 2025 – September 2025*
@@ -50,7 +49,7 @@ Im an aspiring - Software Engineer passionate about **Machine Learning**, **Arti
 - Designed and optimized data pipelines for real-time data ingestion, preprocessing, and analysis using Python and popular ML libraries.
 - Collaborated with senior engineers to test, debug, and enhance ML infrastructure, gaining hands-on experience in fintech systems and model deployment.
 
----
+
 ### AI / ML Researcher  
 **HashedTokens** | Remote  
 *September 2024 – May 2025*
