@@ -35,45 +35,35 @@ Im an aspiring - Software Engineer passionate about **Machine Learning**, **Arti
 ---
 
 ## 🏆 Major Experiences
-- **Junior Back End Engineer Intern  
-**Diaryz** 
-*May 2025 – September 2025*
-- Built and maintained scalable backend services using NestJS, PostgreSQL, and Docker for a mobile caregiver platform.
-- Developed and integrated RESTful APIs with a React Native (Expo) frontend using TypeScript and Axios.
-- Worked demonstrates an Agile development environment, contributing to sprint planning, code reviews, and AWS-based deployments.
 
-- **Software / Machine Learning Engineering Intern  
-**Opfin AI** 
-*May 2025 – September 2025*
-- Contributed to the development of machine learning models for financial market prediction, with a focus on time-series analysis and feature engineering.
-- Designed and optimized data pipelines for real-time data ingestion, preprocessing, and analysis using Python and popular ML libraries.
-- Collaborated with senior engineers to test, debug, and enhance ML infrastructure, gaining hands-on experience in fintech systems and model deployment.
+## 🏆 Major Experiences
 
-
-- **AI / ML Researcher  
-**HashedTokens** | Remote  
-*September 2024 – May 2025*
-
-- Conducted independent research on machine learning models and their real-world applications.
-- Built and trained deep learning models from scratch using PyTorch, TensorFlow, and related frameworks.
-- Implemented techniques from academic research papers into working prototypes and evaluated model performance.
-  
-- **Headstarter Software Engineering Fellow (SWE & MLE Track)**  
-  - Completing multiple AI and SWE projects
-  - Focus on building production level intelligent systems
+- **Junior Back End Engineer Intern @ Diaryz**  
  
-  
+  Built and maintained scalable backend services using NestJS, PostgreSQL, and Docker for a mobile caregiver platform. Developed and integrated RESTful APIs with a React Native (Expo) frontend using TypeScript and Axios. Worked in an Agile development environment, contributing to sprint planning, code reviews, and AWS-based deployments.
+
+- **Software / Machine Learning Engineering Intern @ Opfin AI**  
+
+  Contributed to the development of machine learning models for financial market prediction with a focus on time-series analysis and feature engineering. Designed and optimized data pipelines for real-time ingestion, preprocessing, and analysis using Python and popular ML libraries. Collaborated with senior engineers to test, debug, and enhance ML infrastructure, gaining hands-on experience in fintech systems and model deployment.
+
+- **AI / ML Researcher @ HashedTokens**  
+
+  Conducted independent research on machine learning models and their real-world applications. Built and trained deep learning models from scratch using PyTorch, TensorFlow, and related frameworks. Implemented techniques from academic research papers into working prototypes and evaluated model performance.
+
+- **Headstarter Software Engineering Fellow (SWE & MLE Track)**  
+  Completing multiple AI and software engineering projects with a focus on building production-level intelligent systems.
+
 - **Amazon x CodePath Design Challenge (Summer 2025)**  
-  - Participated in Amazon-sponsored design competition for software solutions
-    
-- **SpeedHacks 2.0 Hackathon (George Mason University)**  
-  - Project: **AutoSeedBot** — Designed and built an autonomous eco friendly seed planting robot using solar navigation and 3D printed chassis, coded navigation and distribution algorithms from scratch.
-    
-- **Undergrad Research Assistant @ George Mason University**  
-  🧠 Worked on the Hardware-Security for Autonomous Systems project. Developed and tested robotic systems using C++, Python, ROS2; focused on real-time data handling, control, and cybersecurity for autonomous platforms.
+  Participated in an Amazon-sponsored design competition focused on designing scalable software solutions.
+
+- **SpeedHacks 2.0 Hackathon @ George Mason University**  
+  Project: **AutoSeedBot** — Designed and built an autonomous eco-friendly seed planting robot using solar navigation and a 3D-printed chassis. Implemented navigation and seed distribution algorithms from scratch.
+
+- **Undergraduate Research Assistant @ George Mason University**  
+  🧠 Worked on the *Hardware-Security for Autonomous Systems* project. Developed and tested robotic systems using C++, Python, and ROS2, focusing on real-time data handling, control systems, and cybersecurity for autonomous platforms.
 
 - **Autonomous Robotics Hardware Security Intern @ Spire Lab**  
-  🤖 Designed autonomous ground robots with Raspberry Pi implemented SLAM mapping, and led penetration testing to expose vulnerabilities in robot comms and navigation systems.
+  🤖 Designed autonomous ground robots using Raspberry Pi, implemented SLAM mapping, and led penetration testing to expose vulnerabilities in robot communication and navigation systems.
 
 ---
 
