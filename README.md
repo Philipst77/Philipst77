@@ -36,8 +36,6 @@ Im an aspiring - Software Engineer passionate about **Machine Learning**, **Arti
 
 ## 🏆 Major Experiences
 
-
-
 - **Junior Back End Engineer Intern @ Diaryz**  
  
   Built and maintained scalable backend services using NestJS, PostgreSQL, and Docker for a mobile caregiver platform. Developed and integrated RESTful APIs with a React Native (Expo) frontend using TypeScript and Axios. Worked in an Agile development environment, contributing to sprint planning, code reviews, and AWS-based deployments.
@@ -74,6 +72,11 @@ Im an aspiring - Software Engineer passionate about **Machine Learning**, **Arti
 ---
 
 ## 🛠️ Featured Projects
+- **Spatial-Semantic Mamba (SS-Mamba)**  
+  Developed a novel **Mamba-based framework for whole-slide image (WSI) analysis** that preserves 2D spatial structure and semantic relationships. Introduced **2D State Space Models (2D-SSM)** with semantic patch ordering to address limitations of traditional MIL approaches.  
+  **Results:** Achieved state-of-the-art performance on Camelyon16 (95.1% AUC), TCGA-BRCA (89.1% AUC), and BRACS (85.8% AUC).  
+  📄 *Graduate-level research project (unpublished manuscript / preprint)*
+  
 - **Facial Recognition Project**  
   _Built a real time facial recognition - system using OpenCV and Deep Learning. Implemented face detection and recognition pipelines with efficient matching algorithms._
 
