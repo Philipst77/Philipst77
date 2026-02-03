@@ -36,13 +36,12 @@ Im an aspiring - Software Engineer passionate about **Machine Learning**, **Arti
 
 ## 🏆 Major Experiences
 
-## 🏆 Major Experiences
+
 
 - **Junior Back End Engineer Intern @ Diaryz**  
  
   Built and maintained scalable backend services using NestJS, PostgreSQL, and Docker for a mobile caregiver platform. Developed and integrated RESTful APIs with a React Native (Expo) frontend using TypeScript and Axios. Worked in an Agile development environment, contributing to sprint planning, code reviews, and AWS-based deployments.
-  
-
+  ---
 - **Software / Machine Learning Engineering Intern @ Opfin AI**  
 
   Contributed to the development of machine learning models for financial market prediction with a focus on time-series analysis and feature engineering. Designed and optimized data pipelines for real-time ingestion, preprocessing, and analysis using Python and popular ML libraries. Collaborated with senior engineers to test, debug, and enhance ML infrastructure, gaining hands-on experience in fintech systems and model deployment.
