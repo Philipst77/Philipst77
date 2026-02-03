@@ -35,14 +35,14 @@ Im an aspiring - Software Engineer passionate about **Machine Learning**, **Arti
 ---
 
 ## 🏆 Major Experiences
-### Junior Back End Engineer Intern  
+- **Junior Back End Engineer Intern  
 **Diaryz** 
 *May 2025 – September 2025*
 - Built and maintained scalable backend services using NestJS, PostgreSQL, and Docker for a mobile caregiver platform.
 - Developed and integrated RESTful APIs with a React Native (Expo) frontend using TypeScript and Axios.
 - Worked demonstrates an Agile development environment, contributing to sprint planning, code reviews, and AWS-based deployments.
 
-### Software / Machine Learning Engineering Intern  
+- **Software / Machine Learning Engineering Intern  
 **Opfin AI** 
 *May 2025 – September 2025*
 - Contributed to the development of machine learning models for financial market prediction, with a focus on time-series analysis and feature engineering.
@@ -50,7 +50,7 @@ Im an aspiring - Software Engineer passionate about **Machine Learning**, **Arti
 - Collaborated with senior engineers to test, debug, and enhance ML infrastructure, gaining hands-on experience in fintech systems and model deployment.
 
 
-### AI / ML Researcher  
+- **AI / ML Researcher  
 **HashedTokens** | Remote  
 *September 2024 – May 2025*
 
