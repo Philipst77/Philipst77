@@ -1,8 +1,7 @@
 # Hi, I'm Philip 👋
 
-🎓 I'm a  Computer Science student at George Mason, University currently pursuing my Masters through the Accelerated Masters program.
 
-Im an aspiring - Software Engineer passionate about **Machine Learning**, **Artificial Intelligence**, **Algorithms**, and **Backend Development**. I love working on challenging problems especially anything related to **optimization**, **autonomous systems**, and **data-driven intelligence**.
+Im a Software Engineer passionate about **Machine Learning**, **Artificial Intelligence**, **Algorithms**, and **Backend Development**. I love working on challenging problems especially anything related to **optimization**, **autonomous systems**, and **data-driven intelligence**.
 
 ---
 
