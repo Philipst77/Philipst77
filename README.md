@@ -5,7 +5,7 @@
 Languages   Python · C · C++ · Java · SQL · TypeScript · MIPS Assembly
 ML / CV     PyTorch · TensorFlow · Scikit-Learn · OpenCV · HuggingFace
 Infra       Docker · AWS · PostgreSQL · Redis · FastAPI · Next.js
-Tools       Git · Linux · CUDA · SLURM · LaTeX
+Tools       Git · Linux · CUDA  · LaTeX
 ```
 
 ---
