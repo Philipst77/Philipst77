@@ -3,7 +3,7 @@
 
 ```
 Languages   Python · C · C++ · Java · SQL · TypeScript · MIPS Assembly
-ML / CV     PyTorch · TensorFlow · Scikit-Learn · OpenCV · HuggingFace
+ML / CV     PyTorch · TensorFlow · CV2 · Scikit-Learn · OpenCV · HuggingFace
 Infra       Docker · AWS · PostgreSQL · Redis · FastAPI 
 Tools       Git · Linux · CUDA  · LaTeX
 ```
