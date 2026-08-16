@@ -4,7 +4,7 @@
 ```
 Languages   Python · C · C++ · Java · SQL · TypeScript · MIPS Assembly
 ML / CV     PyTorch · TensorFlow · Scikit-Learn · OpenCV · HuggingFace
-Infra       Docker · AWS · PostgreSQL · Redis · FastAPI · Next.js
+Infra       Docker · AWS · PostgreSQL · Redis · FastAPI 
 Tools       Git · Linux · CUDA  · LaTeX
 ```
 
