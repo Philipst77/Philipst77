@@ -11,9 +11,8 @@ Tools       Git · Linux · CUDA · SLURM · LaTeX
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Philipst77&show_icons=true&theme=radical&cache_seconds=0)
-![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Philipst77&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-beta-five-18.vercel.app/api?username=Philipst77&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-beta-five-18.vercel.app/api/top-langs/?username=Philipst77&layout=compact&theme=radical)
 
 ---
 
